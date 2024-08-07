@@ -1,4 +1,4 @@
-# InvestmentCalc
+# Investment Calc
 
 This simple calculator app was generated with angular version 18.
 
